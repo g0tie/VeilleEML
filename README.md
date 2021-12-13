@@ -20,5 +20,9 @@ L'entête contient beaucoup d'informataions comme:
 * La signature DKIM (pemettant d'authentifier qu'un mail a bien été envoyé et est autorisé par le domaine)
 * Le MIME version (pour les texte qui recquiert des caractères autres que ASCII)
 * le MIME type (le type de fichier encodé exemple text/plain)
-* 
+
 Le coprs du mail peut être au format HTML. La base 64 est utilisée pour encoder certains éléments (pièces jointes par exemple).
+
+Exemple de fichier EML:
+
+![image](https://user-images.githubusercontent.com/56622131/145756689-dcdfd0de-7ba0-4031-99a3-080f17e8e52c.png)
